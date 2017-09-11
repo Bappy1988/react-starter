@@ -5,11 +5,11 @@ It creates star trek sounding names of machinery/equipemnt/procedures
 
 ## Installation
 use npm or yarn to install node modules, build the dev bundle and serve the pages in express;
-...
+```
 npm install
 npm run build.dev
 npm start
-...
+```
 
 ## Changing the application
 I've been lazy, the code that handles the randomisation is all in babble.jsx. 
