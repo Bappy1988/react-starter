@@ -43,7 +43,7 @@
 		{
 			"name": "hyper-thermic",
 			"primary": "weapons",
-			"secondary": "mediacl"
+			"secondary": "medical"
 		},
 		{
 			"name": "phased",
@@ -125,11 +125,11 @@
 		},
 		{
 			"name": "cordrazine",
-			"primary": "mediacl"
+			"primary": "medical"
 		},
 		{
 			"name": "nitrium",
-			"primary": "mediacl",
+			"primary": "medical",
 			"secondary": "science"
 		},
 		{
