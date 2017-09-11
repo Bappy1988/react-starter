@@ -1,0 +1,287 @@
+{
+	"categories": [
+		"engineering",
+		"weapons",
+		"science",
+		"medical"
+	],
+	"prefix": [
+		"covariant",
+		"pulsed",
+		"inverted",
+		"diverted",
+		"regulated",
+		"artificial",
+		"sub-atomic",
+		"primary",
+		"secondary",
+		"tertiary"
+	],
+	"first": [
+		{
+			"name": "photonic",
+			"primary": "weapons"
+		},
+		{
+			"name": "quantum",
+			"primary": "weapons"
+		},
+		{
+			"name": "tricobalt",
+			"primary": "weapons"
+		},
+		{
+			"name": "plasma",
+			"primary": "engineering",
+			"secondary": "weapons"
+		},
+		{
+			"name": "anti-matter",
+			"primary": "engineering",
+			"secondary": "weapons"
+		},
+		{
+			"name": "hyper-thermic",
+			"primary": "weapons",
+			"secondary": "mediacl"
+		},
+		{
+			"name": "phased",
+			"primary": "weapons",
+			"secondary": "engineering"
+		},
+		{
+			"name": "EPS",
+			"primary": "engineering"
+		},
+		{
+			"name": "fusion",
+			"primary": "engineering"		
+		},
+		{
+			"name": "particle",
+			"primary": "engineering",
+			"secondary": "medical"
+		},
+		{
+			"name": "energising",
+			"primary": "engineering",
+			"secondary": "science"
+		},
+		{
+			"name": "power",
+			"primary": "engineering"
+		},
+		{
+			"name": "nuclear",
+			"primary": "engineering",
+			"secondary": "weapons"
+		},
+		{
+			"name": "matter",
+			"primary": "engineering"
+		},
+		{
+			"name": "matter/antimatter",
+			"primary": "engineering",
+			"secondary": "weapons"
+		},
+		{
+			"name": "dilithium",
+			"primary": "engineering"
+		},
+		{
+			"name": "deuterium",
+			"primary": "engineering"
+		},
+		{
+			"name": "hydrogen",
+			"primary": "engineering",
+			"secondary": "medical"
+		},
+		{
+			"name": "trilithium",
+			"primary": "engineering"
+		},
+		{
+			"name": "tachyon",
+			"primary": "science"
+		},
+		{
+			"name": "chroniton",
+			"primary": "science"
+		},
+		{
+			"name": "deflector",
+			"primary": "science"
+		},
+		{
+			"name": "baryon",
+			"primary": "science"
+		},
+		{
+			"name": "bilitrium",
+			"primary": "science"
+		},
+		{
+			"name": "cordrazine",
+			"primary": "mediacl"
+		},
+		{
+			"name": "nitrium",
+			"primary": "mediacl",
+			"secondary": "science"
+		},
+		{
+			"name": "subspace",
+			"primary": "science",
+			"secondary": "engineering"
+		},
+		{
+			"name": "spacial",
+			"primary": "science"
+		},
+		{
+			"name": "synthetic",
+			"primary": "medical",
+			"secondary": "science"
+		},
+		{
+			"name": "trellium-d",
+			"primary": "science"
+		},
+		{
+			"name": "dylovene",
+			"primary": "medical"
+		},
+		{
+			"name": "haemo",
+			"primary": "medical"
+		},
+		{
+			"name": "jackson",
+			"primary": "engineering"
+		},
+		{
+			"name": "neural",
+			"primary": "medical"
+		}
+	],
+	"second": [
+		{
+			"name": "capacitance",
+			"primary": "engineering",
+			"secondary": "weapons"
+		},
+		{
+			"name": "inversion",
+			"primary": "engineering",
+			"secondary": "science"
+		},
+		{
+			"name": "flow",
+			"primary": "engineering",
+			"secondary": "general"
+		},
+		{
+			"name": "intermix",
+			"primary": "engineering",
+			"secondary": "science"
+		},
+		{
+			"name": "bypass",
+			"primary": "medical",
+			"secondary": "general"
+		},
+		{
+			"name": "regeneration",
+			"primary": "medical",
+			"secondary": "general"
+		},
+		{
+			"name": "fragmentation",
+			"primary": "science",
+			"secondary": "general"
+		}
+	],
+	"third": [
+		{
+			"name": "matrix",
+			"primary": "engineering",
+			"secondary": "general"
+		},
+		{
+			"name": "chamber",
+			"primary": "engineering",
+			"secondary": "general"
+		},
+		{
+			"name": "generator",
+			"primary": "engineering",
+			"secondary": "general"
+		},
+		{
+			"name": "energizer",
+			"primary": "general"
+		},
+		{
+			"name": "unit",
+			"primary": "general"
+		},
+		{
+			"name": "kit",
+			"primary": "general"
+		},
+		{
+			"name": "deflector",
+			"primary": "science",
+			"secondary": "weapons"
+		},
+		{
+			"name": "reactor",
+			"primary": "engineering",
+			"secondary": "science"
+		},
+		{
+			"name": "emitter",
+			"primary": "science",
+			"secondary": "general"
+		},
+		{
+			"name": "array",
+			"primary": "general"
+		},
+		{
+			"name": "bank",
+			"primary": "general"
+		},
+		{
+			"name": "cannon",
+			"primary": "weapons"
+		},
+		{
+			"name": "inverter",
+			"primary": "engineering",
+			"secondary": "science"
+		},
+		{
+			"name": "regulator",
+			"primary": "engineering",
+			"secondary": "medical"
+		},
+		{
+			"name": "valve",
+			"primary": "medical",
+			"secondary": "engineering"
+		},
+		{
+			"name": "pathways",
+			"primary": "medical",
+			"secondary": "general"
+		},
+		{
+			"name": "compensator",
+			"primary": "general"
+		}
+	]
+}

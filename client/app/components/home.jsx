@@ -3,6 +3,7 @@ import {Button} from 'react-toolbox';
 import {connect} from 'react-redux';
 import {Row, Col} from './common/grid';
 import {Information} from './common/messages.jsx';
+import BabbleComponent from './babble';
 import * as homeActions from '../actions/home.actions';
 
 class Home extends React.Component {
@@ -18,6 +19,11 @@ class Home extends React.Component {
 				<Col sm={12} md={6}>
 					<p>Current timestamp: {this.props.time}</p>
 					<Button primary raised onClick={() => this.props.getTime()}>Refresh Time</Button>
+				</Col>
+			</Row>
+			<Row>
+				<Col md={6}>
+					<BabbleComponent />
 				</Col>
 			</Row>
 		</div>
